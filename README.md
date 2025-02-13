@@ -129,6 +129,5 @@ Before starting, ensure you have the following installed:
    ```
 3. Open `http://localhost:5173` in your browser to view the app.
 
-## License
-This project is licensed under the MIT License.
+
 
